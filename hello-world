@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-  printf("Hello World");
+  printf("Hello saya zyoler\n");
+  printf("Saya disini bermaksud untuk membuat sebuah program dalam bahasa c");
 return 0;
 }
